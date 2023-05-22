@@ -1,0 +1,192 @@
+[
+    {
+        "id": "ec507c85-2642-4246-925a-d7b481404db1",
+        "name": "Air Jordan Retro 10",
+        "price": 59,
+        "brand": "NIKE",
+        "stock": 10,
+        "shipping": 10,
+        "quantity": 0,
+        "img": "https://i.ibb.co/RzTQ6xb/2.jpg"
+    },
+    {
+        "id": "98bda3ac-4f8a-4ba3-837f-0844da0008f2",
+        "name": "Nike Air Max",
+        "price": 48,
+        "brand": "NIKE",
+        "stock": 5,
+        "shipping": 7,
+        "quantity": 0,
+        "img": "https://i.ibb.co/b6PzWmy/3.jpg"
+    },
+    {
+        "id": "939c3d61-164e-4573-8076-a09d775e3625",
+        "name": "Nike Dart",
+        "price": 19,
+        "brand": "NIKE",
+        "stock": 4,
+        "shipping": 3,
+        "quantity": 0,
+        "img": "https://i.ibb.co/Qrh7vbr/4.jpg"
+    },
+    {
+        "id": "3bbecef3-f67a-431d-a028-9bd843fd0a9d",
+        "name": "Nike Dunk Low Premium",
+        "price": 29,
+        "brand": "NIKE",
+        "stock": 9,
+        "shipping": 9,
+        "quantity": 0,
+        "img": "https://i.ibb.co/pytNV13/5.jpg"
+    },
+    {
+        "id": "cf6c2e6c-04ea-4d2a-b08f-c8bced4ceec6",
+        "name": "Nike Dual Fusion",
+        "price": 50,
+        "brand": "NIKE",
+        "stock": 13,
+        "shipping": 15,
+        "quantity": 0,
+        "img": "https://i.ibb.co/tMMv7rc/6.jpg"
+    },
+    {
+        "id": "6eda979a-fbf6-485a-bb5f-cd4e025f7b73",
+        "name": "Nike Jordan",
+        "price": 39,
+        "brand": "NIKE",
+        "stock": 5,
+        "shipping": 11,
+        "quantity": 0,
+        "img": "https://i.ibb.co/Xsh0Z10/7.jpg"
+    },
+    {
+        "id": "912aba94-56b0-4c1f-ac68-6b335c2d2900",
+        "name": "Nike Lebron",
+        "price": 43,
+        "brand": "NIKE",
+        "stock": 9,
+        "shipping": 2,
+        "quantity": 0,
+        "img": "https://i.ibb.co/Q9yXwzx/8.jpg"
+    },
+    {
+        "id": "5f31b40a-90f3-4d0b-9c4c-38da737afa28",
+        "name": "Nike Lunar",
+        "price": 35,
+        "brand": "NIKE",
+        "stock": 9,
+        "shipping": 4,
+        "quantity": 0,
+        "img": "https://i.ibb.co/BTt8yTm/9.jpg"
+    },
+    {
+        "id": "fbd14be0-7538-4216-8477-eb1a4a8edcdb",
+        "name": "Nike Lunarglide",
+        "price": 46,
+        "brand": "NIKE",
+        "stock": 2,
+        "shipping": 8,
+        "quantity": 0,
+        "img": "https://i.ibb.co/F8Fd4x4/10.jpg"
+    },
+    {
+        "id": "07fc5d82-8558-4a8b-999d-fbe3b9a98238",
+        "name": "Nike T-Run",
+        "price": 63,
+        "brand": "NIKE",
+        "stock": 16,
+        "shipping": 19,
+        "quantity": 0,
+        "img": "https://i.ibb.co/yBFgJWJ/11.jpg"
+    },
+    {
+        "id": "688adc36-141c-440f-8f40-3fb2e9da0a9a",
+        "name": "Nike Air Max 90 (2020)",
+        "price": 89,
+        "brand": "NIKE",
+        "stock": 19,
+        "shipping": 21,
+        "quantity": 0,
+        "img": "https://i.ibb.co/jGGS6QH/13.jpg"
+    },
+    {
+        "id": "4a5b4ba9-9ebd-42b4-855e-ded30dfe75e2",
+        "name": "Nike Air Span",
+        "price": 79,
+        "brand": "NIKE",
+        "stock": 6,
+        "shipping": 23,
+        "quantity": 0,
+        "img": "https://i.ibb.co/64ZXvgK/14.jpg"
+    },
+    {
+        "id": "2ba8fb07-b95f-4a08-bc0a-c95b7ce80fcb",
+        "name": "Nike Air Force 1",
+        "price": 62,
+        "brand": "NIKE",
+        "stock": 9,
+        "shipping": 17,
+        "quantity": 0,
+        "img": "https://i.ibb.co/0V1pf8X/15.jpg"
+    },
+    {
+        "id": "9d1b13c7-5eb7-4f94-a2fd-37b601686915",
+        "name": "Nike ACG Dog Mountain",
+        "price": 56,
+        "brand": "NIKE",
+        "stock": 16,
+        "shipping": 19,
+        "quantity": 0,
+        "img": "https://i.ibb.co/xLGNcfj/16.jpg"
+    },
+    {
+        "id": "a99edb20-cbe7-4b0e-bcb6-ffd5c58788bb",
+        "name": "Nike PG4",
+        "price": 54,
+        "brand": "NIKE",
+        "stock": 16,
+        "shipping": 13,
+        "quantity": 0,
+        "img": "https://i.ibb.co/LS6WJHf/17.jpg"
+    },
+    {
+        "id": "6fac9ba7-1a17-4d09-a658-c2d6ac23648b",
+        "name": "Nike Air Zoom",
+        "price": 68,
+        "brand": "NIKE",
+        "stock": 19,
+        "shipping": 15,
+        "quantity": 0,
+        "img": "https://i.ibb.co/2FGQQLT/18.jpg"
+    },
+    {
+        "id": "45ff51dc-33c4-48f6-bf79-eef6edd5b78b",
+        "name": "Nike Cortez OG",
+        "price": 97,
+        "brand": "NIKE",
+        "stock": 15,
+        "shipping": 30,
+        "quantity": 0,
+        "img": "https://i.ibb.co/Qc3YJwb/19.jpg"
+    },
+    {
+        "id": "34e9deea-fbbd-4522-a6ba-86c6f7a01b9b",
+        "name": "Nike SB Dunk",
+        "price": 84,
+        "brand": "NIKE",
+        "stock": 18,
+        "shipping": 22,
+        "quantity": 0,
+        "img": "https://i.ibb.co/L609fFY/20.jpg"
+    },
+    {
+        "id": "8bb5de95-6f08-49c8-a56b-fe98d0519c55",
+        "name": "Nike ACG",
+        "price": 78,
+        "brand": "NIKE",
+        "stock": 9,
+        "shipping": 8,
+        "quantity": 0,
+        "img": "https://i.ibb.co/TYTydS4/21.jpg"
+    }
+]

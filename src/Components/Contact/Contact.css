@@ -1,0 +1,29 @@
+.input-focus input:focus {
+    border: 2px solid orangered;
+    box-shadow: rgba(245, 74, 11, 0.904) 0px 3px 8px;
+    font-weight: 500;
+}
+
+.input-focus label {
+    font-weight: 500;
+}
+
+.input-focus textarea:focus {
+    border: 2px solid orangered;
+    box-shadow: rgba(245, 74, 11, 0.904) 0px 3px 8px;
+    font-weight: 500;
+}
+
+.send-btn {
+    color: white;
+    border: none;
+    width: 100%;
+    padding: 8px;
+    background: orangered;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.send-btn:hover {
+    background: rgba(255, 68, 0, 0.904);
+}

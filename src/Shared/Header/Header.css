@@ -1,0 +1,162 @@
+.navbar-toggler {
+    padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
+    font-size: var(--bs-navbar-toggler-font-size);
+    line-height: 1;
+    color: white;
+    background-color: orangered;
+    border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
+    border-radius: var(--bs-navbar-toggler-border-radius);
+    transition: var(--bs-navbar-toggler-transition);
+}
+
+.bg-color {
+    background-color: #1a1d20;
+}
+
+.logo a {
+    color: white !important;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.logo a:hover {
+    color: white;
+}
+
+.logo span {
+    color: orangered;
+}
+
+.navbar-nav a {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.navbar-nav a:hover {
+    color: orangered;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .show>.nav-link {
+    color: orangered;
+}
+
+.btn-signup {
+    color: white !important;
+    border: 2px solid orangered;
+    background: orangered;
+    padding: 8px 12px 8px 12px !important;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.btn-signup:hover {
+    color: white !important;
+    border: 2px solid orangered;
+    background: rgba(255, 68, 0, 0.925);
+}
+
+
+.btn-signin {
+    color: white !important;
+    border: 2px solid orangered;
+    padding: 8px 12px 8px 12px !important;
+    background: none;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.btn-signin:hover {
+    color: white !important;
+    border: 2px solid orangered;
+    background: orangered;
+}
+
+.user-img img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    border: 2px solid orangered;
+    cursor: pointer;
+}
+
+.user-img img:hover {
+    border: 2px solid orangered;
+}
+
+.dropdown-menu[data-bs-popper] {
+    top: 50px;
+    left: -73px;
+    background: #1a1d20;
+    color: white;
+}
+
+.dropdown-item {
+    color: white;
+}
+
+.dropdown-item:hover {
+    background: orangered;
+    color: white !important;
+}
+
+.user-sp {
+    display: block;
+    background: orangered;
+    width: 100%;
+    height: 2px;
+}
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .btn-cus {
+        margin-bottom: 10px;
+    }
+
+    .sm-pb {
+        padding-bottom: 10px;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .btn-cus {
+        margin-bottom: 10px;
+    }
+
+    .sm-pb {
+        padding-bottom: 10px;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .btn-cus {
+        margin-bottom: 10px;
+    }
+
+    .sm-pb {
+        padding-bottom: 0px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .btn-cus {
+        margin-bottom: 0px;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .btn-cus {
+        margin-bottom: 0px;
+    }
+
+    .sm-pb {
+        padding-bottom: 0px;
+    }
+}

@@ -1,0 +1,15 @@
+.not-found {
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+.not-found img {
+    width: 220px;
+    height: 220px;
+    object-fit: contain;
+}
+
+.not-found h4 {
+    text-transform: uppercase;
+    padding-top: 10px;
+}

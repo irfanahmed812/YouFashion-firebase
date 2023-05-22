@@ -1,0 +1,109 @@
+footer {
+    background-color: #1a1d20ef;
+}
+
+
+.logo-footer a {
+    color: white !important;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.logo-footer a:hover {
+    color: white;
+}
+
+.logo-footer {
+    padding-top: 50px;
+}
+
+.logo-footer span {
+    color: orangered;
+}
+
+.footer-link {
+    padding-top: 24px;
+    padding-bottom: 5px;
+}
+
+.footer-link h4 {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.footer-link li {
+    list-style: none;
+    padding: 5px;
+}
+
+
+.footer-link a {
+    --bs-text-opacity: 1;
+    color: rgba(255, 255, 255, .5);
+    padding: 10px;
+    text-decoration: none;
+}
+
+.footer-link a:hover {
+    text-decoration: underline;
+    color: orangered;
+}
+
+.footer-follow h4 {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.footer-follow {
+    padding-top: 24px;
+    padding-bottom: 5px;
+}
+
+.footer-follow a {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.footer-follow i {
+    background-color: #1a1d20;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.footer-follow i:hover {
+    background: rgba(255, 68, 0, 0.911);
+    color: white;
+}
+
+.btn-subscribe {
+    color: white;
+    border: 2px solid orangered;
+    background: orangered;
+    padding: 5px 9px 5px 9px;
+    border-radius: 8px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.btn-subscribe:hover {
+    background: rgba(255, 68, 0, 0.89);
+}
+
+.copyright a {
+    text-decoration: none;
+    color: white;
+}
+
+.copyright a:hover {
+    color: orangered;
+    text-decoration: underline;
+}
+
+.payment img {
+    width: 100%;
+    object-fit: cover;
+}

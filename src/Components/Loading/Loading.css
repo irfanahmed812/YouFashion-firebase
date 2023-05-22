@@ -1,0 +1,12 @@
+.spiner-color {
+    color: orangered;
+}
+
+.spiner-pt {
+    padding-top: 250px;
+}
+
+.spinner-grow {
+    width: 90px;
+    height: 90px;
+}

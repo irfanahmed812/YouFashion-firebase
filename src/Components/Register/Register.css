@@ -1,0 +1,338 @@
+form {
+    background: none !important;
+}
+
+.box-width {
+    width: 50%;
+}
+
+.register-btn {
+    color: white;
+    border: none;
+    width: 100%;
+    padding: 8px;
+    background: orangered;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.register-btn:hover {
+    background: rgba(255, 68, 0, 0.877);
+}
+
+.already a {
+    font-size: 13px;
+}
+
+.already a:hover {
+    color: rgba(7, 7, 7, 0.925) !important;
+    text-decoration: underline;
+}
+
+.line-arrow p {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid rgba(0, 0, 0, .5);
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+    color: rgba(0, 0, 0, .5);
+}
+
+.line-arrow span {
+    background: white;
+    padding: 0 10px;
+}
+
+.register-focus input:focus {
+    border: 2px solid orangered;
+    box-shadow: rgba(245, 74, 11, 0.904) 0px 3px 8px;
+    font-weight: 500;
+}
+
+.register-focus label {
+    font-weight: 500;
+}
+
+/* google */
+.login-with-google-btn {
+    width: 100%;
+    transition: background-color .3s, box-shadow .3s;
+    padding: 12px 16px 12px 42px;
+    border: none;
+    border-radius: 3px;
+    margin-right: 8px;
+    box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.04), 0 1px 1px rgba(255, 255, 255, 0.25);
+    color: rgba(0, 0, 0, 0.884);
+    width: 48%;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    background-color: #e0dfdf;
+
+    &:hover {
+        box-shadow: 0 -1px 0 rgba(151, 151, 151, 0.473), 0 2px 4px rgba(141, 141, 141, 0.521);
+    }
+
+    &:active {
+        background-color: #e0dfdf;
+    }
+
+    &:focus {
+        outline: none;
+        box-shadow:
+            0 -1px 0 rgba(255, 15, 15, 0.04),
+            0 2px 4px rgba(255, 0, 0, 0.25),
+    }
+
+    &:disabled {
+        filter: grayscale(100%);
+        background-color: #ebebeb;
+        box-shadow: 0 -1px 0 rgba(233, 5, 5, 0.04), 0 1px 1px rgba(0, 0, 0, .25);
+        cursor: not-allowed;
+    }
+}
+
+.login-with-google-btn i {
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+/* github */
+.login-with-github-btn {
+    transition: background-color .3s, box-shadow .3s;
+    padding: 12px 16px 12px 42px;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 -1px 0 rgba(0, 0, 0, .04), 0 1px 1px rgba(0, 0, 0, .25);
+    color: rgba(255, 255, 255, 0.884);
+    width: 48%;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    background-color: #161b22;
+
+    &:hover {
+        box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.473), 0 2px 4px rgba(3, 3, 3, 0.521);
+    }
+
+    &:active {
+        background-color: #161b22;
+    }
+
+    &:focus {
+        outline: none;
+        box-shadow:
+            0 -1px 0 rgba(255, 15, 15, 0.04),
+            0 2px 4px rgba(255, 0, 0, 0.25),
+    }
+
+    &:disabled {
+        filter: grayscale(100%);
+        background-color: #ebebeb;
+        box-shadow: 0 -1px 0 rgba(233, 5, 5, 0.04), 0 1px 1px rgba(0, 0, 0, .25);
+        cursor: not-allowed;
+    }
+}
+
+/* facebook */
+.login-with-facebook-btn {
+    transition: background-color .3s, box-shadow .3s;
+    padding: 12px 16px 12px 42px;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 -1px 0 rgba(0, 0, 0, .04), 0 1px 1px rgba(0, 0, 0, .25);
+    color: rgba(255, 255, 255, 0.884);
+    width: 48%;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    background-color: #4267B2;
+
+    &:hover {
+        box-shadow: 0 -1px 0 #3f73db, 0 2px 4px #4374d6;
+    }
+
+    &:active {
+        background-color: #4267B2;
+    }
+
+    &:focus {
+        outline: none;
+        box-shadow:
+            0 -1px 0 rgba(255, 15, 15, 0.04),
+            0 2px 4px rgba(255, 0, 0, 0.25),
+    }
+
+    &:disabled {
+        filter: grayscale(100%);
+        background-color: #ebebeb;
+        box-shadow: 0 -1px 0 rgba(233, 5, 5, 0.04), 0 1px 1px rgba(0, 0, 0, .25);
+        cursor: not-allowed;
+    }
+}
+
+.login-with-facebook-btn i {
+    color: white;
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+.login-with-github-btn i {
+    color: white;
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+.login-button {
+    display: flex;
+    justify-content: space-between;
+}
+
+.register-btn:disabled {
+    background: rgba(255, 68, 0, 0.644);
+    cursor: not-allowed;
+}
+
+.form-check-acpt label {
+    font-size: 14px;
+}
+
+.form-check-acpt input[type='checkbox']:checked {
+    background-color: orangered;
+}
+
+.form-check-acpt input[type='checkbox']:checked {
+    border: 2px solid orangered;
+}
+
+.form-check-acpt span {
+    cursor: pointer;
+}
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    .login-with-github-btn {
+        width: 100%;
+    }
+
+    .login-with-google-btn {
+        width: 100%;
+    }
+
+    .box-width {
+        width: 100%;
+    }
+
+    .login-with-github-btn span {
+        position: relative;
+        right: 7px;
+    }
+
+    .login-with-google-btn span {
+        position: relative;
+        right: 7px;
+    }
+
+    .pad-form {
+        padding: 3px;
+    }
+
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+    .login-with-github-btn span {
+        position: relative;
+        left: 0px;
+    }
+
+    .login-with-github-btn {
+        width: 100%;
+    }
+
+    .login-with-google-btn {
+        width: 100%;
+    }
+
+    .box-width {
+        width: 100%;
+    }
+
+    .pad-form {
+        padding: 18px;
+    }
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+    .login-with-github-btn {
+        width: 48%;
+    }
+
+    .login-with-google-btn {
+        width: 48%;
+    }
+
+    .box-width {
+        width: 60%;
+    }
+
+    .pad-form {
+        padding: 22px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    form {
+        width: 75%;
+    }
+
+    .login-with-github-btn {
+        width: 48%;
+    }
+
+    .login-with-google-btn {
+        width: 48%;
+    }
+
+    .box-width {
+        width: 50%;
+    }
+
+    .pad-form {
+        padding: 22px;
+    }
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    form {
+        width: 50%;
+    }
+
+    .login-with-github-btn {
+        width: 48%;
+    }
+
+    .login-with-google-btn {
+        width: 48%;
+    }
+
+    .box-width {
+        width: 50%;
+    }
+
+    .pad-form {
+        padding: 22px;
+    }
+
+}

@@ -1,0 +1,68 @@
+.pt-login {
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+
+.forget a {
+    color: rgba(0, 0, 0, 0.692);
+    font-size: 12px;
+}
+
+.forget a:hover {
+    color: rgba(255, 68, 0, 0.884);
+}
+
+form {
+    text-align: start;
+    background: whitesmoke;
+    padding: 30px;
+}
+
+.signin-btn {
+    color: white;
+    border: none;
+    padding: 8px 17px 8px 17px;
+    background: orangered;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.signin-btn:hover {
+    background: rgba(255, 68, 0, 0.877);
+}
+
+.already p {
+    font-size: 13px;
+}
+
+.already a {
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.692);
+}
+
+.already a:hover {
+    color: orangered !important;
+    text-decoration: underline;
+}
+
+.login-foucs input:focus {
+    border: 2px solid orangered;
+    box-shadow: rgba(245, 74, 11, 0.904) 0px 3px 8px;
+    font-weight: 500;
+}
+
+.login-foucs label {
+    font-weight: 500;
+}
+
+.form-check-text label {
+    font-size: 14px;
+}
+
+.form-check-text input[type='checkbox']:checked {
+    background-color: orangered;
+}
+
+.form-check-text input[type='checkbox']:checked {
+    border: 2px solid orangered;
+}
